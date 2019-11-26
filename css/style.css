@@ -26,7 +26,11 @@ h4 {
 }
 
 h4.amiable {
-  background-image: linear-gradient(to right, green, chartreuse);
+  background-image: linear-gradient(to right, darkgreen, chartreuse);
+}
+
+h4.indifferent {
+  background-image: linear-gradient(to right, darkgoldenrod, gold);
 }
 
 .amiable {
