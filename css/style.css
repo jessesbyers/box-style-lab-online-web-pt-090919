@@ -1,13 +1,13 @@
 body, html {
+  background-image: image(./images/white-wood.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   height: 100%;
   font-family: Apple Chancery, cursive;
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: image(./images/white-wood.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .container, h1 {
