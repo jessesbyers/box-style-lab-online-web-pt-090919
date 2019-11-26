@@ -1,5 +1,6 @@
 body, html {
-  background-image: image("./images/white-wood.jpg");
+  /*background-image: image();*/
+  background: url("./images/white-wood.jpg") no-repeat right top;
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
