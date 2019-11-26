@@ -30,7 +30,7 @@ h4.amiable {
 }
 
 h4.indifferent {
-  background-image: linear-gradient(to right, darkgoldenrod, gold);
+  background-image: linear-gradient(to right, darkgoldenrod, #dddd22);
 }
 
 .amiable {
