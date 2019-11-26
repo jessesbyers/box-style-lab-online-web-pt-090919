@@ -18,15 +18,19 @@ body, html {
   margin: 10px auto;
 }
 
-h4 {
+/*h4 {
   width: fit-content;
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-}
+}*/
 
 h4.amiable {
-  background_color: linear_gradient(to right, #22aa44, #44cc66);
+  width: fit-content;
+  display: inline-block;
+  padding: 5px;
+  margin: 20px 0 0 0;
+  background: linear_gradient(to right, #22aa44, #44cc66);
 }
 
 .amiable {
