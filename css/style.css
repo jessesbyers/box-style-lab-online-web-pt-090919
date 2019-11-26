@@ -26,8 +26,8 @@ h4 {
 }
 
 h4.amiable {
-  /*background: linear_gradient(to right, #22aa44, #44cc66);*/
-  background-image: linear-gradient(red, yellow, blue);
+  background_image: linear_gradient(#22aa44, #44cc66);
+  /*background-image: linear-gradient(red, yellow, blue);*/
 }
 
 .amiable {
